@@ -1,4 +1,3 @@
-const NoValidate = yup.object().shape();
 
 const yup = require("yup");
 
