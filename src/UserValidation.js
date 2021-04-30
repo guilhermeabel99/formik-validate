@@ -1,3 +1,6 @@
+const NoValidate = yup.object().shape();
+
+
 const yup = require("yup");
 
 const Validation = yup.object().shape({
